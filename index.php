@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SEO-продвижение сайтов</title>
+    <link rel="stylesheet" href="./assets/css/style.css">
 </head>
 
 <body>
@@ -69,15 +70,17 @@
 
         <div class="top">
             <div class="container">
-                <div class="top__first">
-                    <h1 class="top__title">SEO-продвижение сайтов в Канаде</h1>
-                    <p>
-                        На главной странице нашего SEO агентства "ZapadSEO" вы найдете все необходимое для успешного продвижения англоязычных сайтов.
-                        Начнем с главного – продвижения англоязычных сайтов. Наша команда специалистов занимается раскруткой сайтов на английском языке уже много лет. Мы не просто продвигаем сайты, мы создаем комплексные стратегии, которые работают в поисковых системах.
-                    </p>
-                </div>
-                <div class="top__second">
-                    <img src="./assets/img/page-seo/seo-block-1.png" alt="">
+                <div class="top__inner">
+                    <div class="top__first">
+                        <h1 class="top__title">SEO-продвижение сайтов в Канаде</h1>
+                        <p>
+                            На главной странице нашего SEO агентства "ZapadSEO" вы найдете все необходимое для успешного продвижения англоязычных сайтов.<br>
+                            Начнем с главного – продвижения англоязычных сайтов. Наша команда специалистов занимается раскруткой сайтов на английском языке уже много лет. Мы не просто продвигаем сайты, мы создаем комплексные стратегии, которые работают в поисковых системах.
+                        </p>
+                    </div>
+                    <div class="top__second">
+                        <img src="./assets/img/page-seo/seo-block-1.png" alt="">
+                    </div>
                 </div>
             </div>
         </div>
@@ -87,13 +90,13 @@
         <div class="block">
             <div class="container">
                 <div class="block__label">Цены</div>
-                <h2 class="block__title">Цены на продвижение сайтов в Канаде</h2>
+                <h2 class="block__title mw740">Цены на продвижение сайтов в Канаде</h2>
 
                 <div class="price">
 
                     <div class="price__item price_yellow">
                         <div class="price__header">
-                            <div class="counter"></div>
+                            <div class="counter">01</div>
                             <div class="price__header-el">
                                 <a href="#">
                                     <div class="btn btn_arrow-black">Подробнее</div>
@@ -107,7 +110,7 @@
                             <div class="price-list">
                                 <div class="price-list__label">Мы предоставляем:</div>
                                 <ul>
-                                    <li>Честные методы продвижения и ни одного сайта под фильтром</li>
+                                    <li>Честные методы продвижения и<br> ни одного сайта под фильтром</li>
                                     <li>Бесплатный SEO-аудит и прогноз до старта</li>
                                     <li>Работаем только с теми, кому можем дать результат</li>
                                 </ul>
@@ -121,7 +124,7 @@
 
                     <div class="price__item price_blue">
                         <div class="price__header">
-                            <div class="counter"></div>
+                            <div class="counter">02</div>
                             <div class="price__header-el">
                                 <a href="#">
                                     <div class="btn btn_arrow-yellow">Подробнее</div>
@@ -135,7 +138,7 @@
                             <div class="price-list">
                                 <div class="price-list__label">Мы предоставляем:</div>
                                 <ul>
-                                    <li>Честные методы продвижения и ни одного сайта под фильтром</li>
+                                    <li>Честные методы продвижения и<br> ни одного сайта под фильтром</li>
                                     <li>Бесплатный SEO-аудит и прогноз до старта</li>
                                     <li>Работаем только с теми, кому можем дать результат</li>
                                 </ul>
@@ -149,7 +152,7 @@
 
                     <div class="price__item price_white">
                         <div class="price__header">
-                            <div class="counter"></div>
+                            <div class="counter">03</div>
                             <div class="price__header-el">
                                 <a href="#">
                                     <div class="btn btn_arrow-black">Подробнее</div>
@@ -163,7 +166,7 @@
                             <div class="price-list">
                                 <div class="price-list__label">Мы предоставляем:</div>
                                 <ul>
-                                    <li>Честные методы продвижения и ни одного сайта под фильтром</li>
+                                    <li>Честные методы продвижения и<br> ни одного сайта под фильтром</li>
                                     <li>Бесплатный SEO-аудит и прогноз до старта</li>
                                     <li>Работаем только с теми, кому можем дать результат</li>
                                 </ul>
@@ -187,7 +190,7 @@
         <div class="block">
             <div class="container">
                 <div class="block__label">УТП</div>
-                <h2 class="block__title">Уникальное торговое предложение для вашего сайта</h2>
+                <h2 class="block__title mw760">Уникальное торговое предложение для вашего сайта</h2>
 
                 <div class="advant">
 
@@ -258,7 +261,7 @@
         <div class="block">
             <div class="container">
                 <div class="block__label">Кейсы</div>
-                <h2 class="block__title">Наши успешные кейсы по раскрутке сайтов в Канаде</h2>
+                <h2 class="block__title mw880">Наши успешные кейсы по раскрутке сайтов в Канаде</h2>
 
                 <div class="cases">
 
@@ -272,7 +275,7 @@
                                     <div class="cases__tags">
                                         <span class="cases__tag">Кейс №1</span>
                                     </div>
-                                    <div class="counter"></div>
+                                    <div class="counter">01</div>
                                 </div>
 
                                 <div class="cases__list">
@@ -300,7 +303,7 @@
                                     <div class="cases__tags">
                                         <span class="cases__tag">Кейс №2</span>
                                     </div>
-                                    <div class="counter"></div>
+                                    <div class="counter">02</div>
                                 </div>
 
                                 <div class="cases__list">
@@ -329,7 +332,7 @@
                                     <div class="cases__tags">
                                         <span class="cases__tag">Кейс №3</span>
                                     </div>
-                                    <div class="counter"></div>
+                                    <div class="counter">03</div>
                                 </div>
 
                                 <div class="cases__list">
@@ -363,73 +366,71 @@
                 <h2 class="block__title">Как мы работаем</h2>
 
                 <div class="howwork">
-                    <div class="howwork__list">
+                    <div class="howwork__inner">
+                        <div class="howwork__list">
 
-                        <div class="howwork__item">
-                            <div class="howwork__item-space"></div>
-                            <div class="howwork__body">
-                                <div class="howwork__text">
-                                    <h3 class="howwork__title">Аудит и КП</h3>
-                                    <div class="howwork__desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>
+                            <div class="howwork__item">
+                                <div class="howwork__body">
+                                    <div class="howwork__text">
+                                        <h3 class="howwork__title">Аудит и КП</h3>
+                                        <div class="howwork__desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </div>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
 
-                        <div class="howwork__item">
-                            <div class="howwork__item-space"></div>
-                            <div class="howwork__body">
-                                <div class="howwork__text">
-                                    <h3 class="howwork__title">Технический аудит</h3>
-                                    <div class="howwork__desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>
+                            <div class="howwork__item">
+                                <div class="howwork__body">
+                                    <div class="howwork__text">
+                                        <h3 class="howwork__title">Технический аудит</h3>
+                                        <div class="howwork__desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
 
 
-                        <div class="howwork__item">
-                            <div class="howwork__item-space"></div>
-                            <div class="howwork__body">
-                                <div class="howwork__text">
-                                    <h3 class="howwork__title">Аудит содержания</h3>
-                                    <div class="howwork__desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>
+                            <div class="howwork__item">
+                                <div class="howwork__body">
+                                    <div class="howwork__text">
+                                        <h3 class="howwork__title">Аудит <br> содержания</h3>
+                                        <div class="howwork__desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
 
-                        <div class="howwork__item">
-                            <div class="howwork__item-space"></div>
-                            <div class="howwork__body">
-                                <div class="howwork__text">
-                                    <h3 class="howwork__title">Внутренная оптимизация</h3>
-                                    <div class="howwork__desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>
+                            <div class="howwork__item">
+                                <div class="howwork__body">
+                                    <div class="howwork__text">
+                                        <h3 class="howwork__title">Внутренная оптимизация</h3>
+                                        <div class="howwork__desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
 
-                        <div class="howwork__item">
-                            <div class="howwork__item-space"></div>
-                            <div class="howwork__body">
-                                <div class="howwork__text">
-                                    <h3 class="howwork__title">Стратегия внешней оптимизации</h3>
-                                    <div class="howwork__desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>
+                            <div class="howwork__item">
+                                <div class="howwork__body">
+                                    <div class="howwork__text">
+                                        <h3 class="howwork__title">Стратегия внешней оптимизации</h3>
+                                        <div class="howwork__desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
 
-                        <div class="howwork__item">
-                            <div class="howwork__item-space"></div>
-                            <div class="howwork__body">
-                                <div class="howwork__text">
-                                    <h3 class="howwork__title">Микроазметка</h3>
-                                    <div class="howwork__desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>
+                            <div class="howwork__item">
+                                <div class="howwork__body">
+                                    <div class="howwork__text">
+                                        <h3 class="howwork__title">Микроазметка</h3>
+                                        <div class="howwork__desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
 
+
+
+
+                        </div>
+                        <div class="howwork__line"></div>
                     </div>
-                    <div class="howwork__line"></div>
                 </div>
-
 
             </div>
         </div>
@@ -440,7 +441,7 @@
         <div class="block">
             <div class="container">
                 <div class="block__label">Оптимизация сайта в Канаде</div>
-                <h2 class="block__title">Почему Вам нужна оптимизация сайтов в Канаде</h2>
+                <h2 class="block__title mw790">Почему Вам нужна оптимизация сайтов в Канаде</h2>
 
                 <div class="advant">
 
@@ -519,24 +520,24 @@
                         <thead>
                             <tr class="row-1 odd">
                                 <th class="column-1"></th>
-                                <th colspan="5" class="column-2">Контекстная реклама Google</th>
-                                <th colspan="6" class="column-7">SEO-продвижение сайта</th>
+                                <th colspan="6" class="column-2">Контекстная реклама Google</th>
+                                <th colspan="5" class="column-8">SEO-продвижение сайта</th>
                             </tr>
                         </thead>
                         <tbody class="row-hover">
                             <tr class="row-2 even">
-                                <td class="column-1">Период</td>
-                                <td class="column-2">Вложения</td>
-                                <td class="column-3">Кол-во трафика</td>
-                                <td class="column-4">Кол-во заявок</td>
-                                <td class="column-5">Конверсии, %</td>
-                                <td class="column-6">Стоимость привлечения 1 клиента</td>
-                                <td class="column-7">Вложения</td>
-                                <td class="column-8">Кол-во трафика</td>
-                                <td class="column-9">Кол-во заявок</td>
-                                <td class="column-10">Конверсии, %</td>
-                                <td class="column-11">Стоимость клика,$</td>
-                                <td class="column-12">Стоимость привлечения 1 клиента</td>
+                                <td class="column-1"><strong>Период</strong></td>
+                                <td class="column-2"><strong>Вложения, $</strong></td>
+                                <td class="column-3"><strong>Кол-во трафика</strong></td>
+                                <td class="column-4"><strong>Кол-во заявок</strong></td>
+                                <td class="column-5"><strong>Конверсии, %</strong></td>
+                                <td class="column-6"><strong>Стоимость клика, $</strong></td>
+                                <td class="column-7"><strong>Стоимость привлечения 1 клиента</strong></td>
+                                <td class="column-8"><strong>Вложения, $</strong></td>
+                                <td class="column-9"><strong>Кол-во трафика</strong></td>
+                                <td class="column-10"><strong>Кол-во заявок</strong></td>
+                                <td class="column-11"><strong>Конверсии, %</strong></td>
+                                <td class="column-12"><strong>Стоимость привлечения 1 клиента</strong></td>
                             </tr>
                             <tr class="row-3 odd">
                                 <td class="column-1">1 месяц</td>
@@ -567,16 +568,16 @@
                                 <td class="column-12">10</td>
                             </tr>
                             <tr class="row-5 odd">
-                                <td class="column-1">В сумме за 1-ый год</td>
-                                <td class="column-2">6000</td>
+                                <td class="column-1">В сумме за <br> 1-ый год</td>
+                                <td class="column-2"><strong>6000</strong></td>
                                 <td class="column-3"><em>600</em></td>
                                 <td class="column-4"><em>120</em></td>
                                 <td class="column-5"><em>12000</em></td>
-                                <td class="column-6"><em>12000</em></td>
+                                <td class="column-6"><strong>12000</strong></td>
                                 <td class="column-7"><em>12000</em></td>
                                 <td class="column-8"><em>600</em></td>
                                 <td class="column-9"><em>120</em></td>
-                                <td class="column-10"><em>12000</em></td>
+                                <td class="column-10"><strong>12000</strong></td>
                                 <td class="column-11"><em>12000</em></td>
                                 <td class="column-12"><em>12000</em></td>
                             </tr>
@@ -609,38 +610,41 @@
                                 <td class="column-12">10</td>
                             </tr>
                             <tr class="row-8 even">
-                                <td class="column-1">В сумме за 1-ый год</td>
-                                <td class="column-2">6000</td>
+                                <td class="column-1">В сумме за <br> 2-ой год</td>
+                                <td class="column-2"><strong>6000</strong></td>
                                 <td class="column-3"><em>600</em></td>
                                 <td class="column-4"><em>120</em></td>
                                 <td class="column-5"><em>12000</em></td>
                                 <td class="column-6"><em>12000</em></td>
                                 <td class="column-7"><em>12000</em></td>
-                                <td class="column-8"><em>600</em></td>
+                                <td class="column-8"><strong>600</strong></td>
                                 <td class="column-9"><em>120</em></td>
                                 <td class="column-10"><em>12000</em></td>
                                 <td class="column-11"><em>12000</em></td>
                                 <td class="column-12"><em>12000</em></td>
                             </tr>
-                            <tr class="row-9 odd">
-                                <td class="column-1"></td>
-                                <td class="column-2"></td>
-                                <td class="column-3"></td>
-                                <td class="column-4"></td>
-                                <td class="column-5"></td>
-                                <td class="column-6"></td>
-                                <td class="column-7"></td>
-                                <td class="column-8"></td>
-                                <td class="column-9"></td>
-                                <td class="column-10"></td>
-                                <td class="column-11"></td>
-                                <td class="column-12"></td>
+                            <tr class="row-9 even">
+                                <td class="column-1">В сумме за <br> два года</td>
+                                <td class="column-2"><strong>6000</strong></td>
+                                <td class="column-3"><em>600</em></td>
+                                <td class="column-4"><em>120</em></td>
+                                <td class="column-5"><em>12000</em></td>
+                                <td class="column-6"><em>12000</em></td>
+                                <td class="column-7"><em>12000</em></td>
+                                <td class="column-8"><strong>600</strong></td>
+                                <td class="column-9"><em>120</em></td>
+                                <td class="column-10"><em>12000</em></td>
+                                <td class="column-11"><em>12000</em></td>
+                                <td class="column-12"><em>12000</em></td>
                             </tr>
                         </tbody>
                     </table>
 
                     <div class="table-char__info">
-                        Исходя из таблицы выше можно сделать вывод о том seo продвижение становится более выгодным инструментом интернет-маркетинга после 6 месяцев использования каждого из каналов.
+                        <div class="table-char__info-icon"></div>
+                        <div class="table-char__info-text">
+                            Исходя из таблицы выше можно сделать вывод о том seo продвижение становится более выгодным инструментом интернет-маркетинга после 6 месяцев использования каждого из каналов.
+                        </div>
                     </div>
 
                 </div>
@@ -654,7 +658,7 @@
         <div class="block block_yellow">
             <div class="container">
                 <div class="block__label">Результат</div>
-                <h2 class="block__title">Когда ждать результат от SEO-продвижения канадского сайта</h2>
+                <h2 class="block__title mw790">Когда ждать результат от SEO-продвижения канадского сайта</h2>
 
 
                 <div class="seoresult">
@@ -743,63 +747,77 @@
         <div class="block ">
             <div class="container">
                 <div class="block__label">SEO-продвижение</div>
-                <h2 class="block__title">Особенности SEO-продвижения сайта в Канаде</h2>
+                <h2 class="block__title mw915">Особенности SEO-продвижения сайта в Канаде</h2>
 
                 <div class="seoprom">
 
                     <div class="seoprom__item">
                         <div class="seoprom__before"></div>
-                        <h3 class="seoprom__title">Мультикультурное окружение</h3>
-                        <div class="seoprom__desc">
-                            Канада – это мультикультурное общество с разнообразной аудиторией, говорящей на разных языках. Это означает, что для успешного продвижения сайта в Канаде необходимо учитывать разные языковые группы и культурные особенности. Контент и ключевые слова должны быть адаптированы под разные аудитории.
+                        <div class="seoprom__body">
+                            <h3 class="seoprom__title">Мультикультурное окружение</h3>
+                            <div class="seoprom__desc">
+                                Канада – это мультикультурное общество с разнообразной аудиторией, говорящей на разных языках. Это означает, что для успешного продвижения сайта в Канаде необходимо учитывать разные языковые группы и культурные особенности. Контент и ключевые слова должны быть адаптированы под разные аудитории.
+                            </div>
                         </div>
                     </div>
 
                     <div class="seoprom__item">
                         <div class="seoprom__before"></div>
-                        <h3 class="seoprom__title">Влияние мобильного трафика</h3>
-                        <div class="seoprom__desc">
-                            Как и во многих других странах, мобильный трафик в Канаде постоянно растет. Поэтому ваш сайт должен быть адаптирован для мобильных устройств и иметь высокую скорость загрузки на мобильных платформах.
+                        <div class="seoprom__body">
+                            <h3 class="seoprom__title">Влияние мобильного трафика</h3>
+                            <div class="seoprom__desc">
+                                Как и во многих других странах, мобильный трафик в Канаде постоянно растет. Поэтому ваш сайт должен быть адаптирован для мобильных устройств и иметь высокую скорость загрузки на мобильных платформах.
+                            </div>
                         </div>
                     </div>
 
                     <div class="seoprom__item">
                         <div class="seoprom__before"></div>
-                        <h3 class="seoprom__title">Географические различия</h3>
-                        <div class="seoprom__desc">
-                            Канада - крупная страна с разнообразными географическими особенностями. Расстояния между городами и провинциями могут быть огромными. Поэтому важно определить целевую аудиторию и проводить геотаргетинг, чтобы привлечь клиентов из конкретных регионов.
+                        <div class="seoprom__body">
+                            <h3 class="seoprom__title">Географические различия</h3>
+                            <div class="seoprom__desc">
+                                Канада - крупная страна с разнообразными географическими особенностями. Расстояния между городами и провинциями могут быть огромными. Поэтому важно определить целевую аудиторию и проводить геотаргетинг, чтобы привлечь клиентов из конкретных регионов.
+                            </div>
                         </div>
                     </div>
 
                     <div class="seoprom__item">
                         <div class="seoprom__before"></div>
-                        <h3 class="seoprom__title">Соблюдение местных законов</h3>
-                        <div class="seoprom__desc">
-                            Канада имеет свои законы и правила, касающиеся интернет-бизнеса, защиты данных и рекламы. При продвижении сайта в Канаде необходимо соблюдать все местные нормативы и стандарты, чтобы избежать правовых проблем.
+                        <div class="seoprom__body">
+                            <h3 class="seoprom__title">Соблюдение местных законов</h3>
+                            <div class="seoprom__desc">
+                                Канада имеет свои законы и правила, касающиеся интернет-бизнеса, защиты данных и рекламы. При продвижении сайта в Канаде необходимо соблюдать все местные нормативы и стандарты, чтобы избежать правовых проблем.
+                            </div>
                         </div>
                     </div>
 
                     <div class="seoprom__item">
                         <div class="seoprom__before"></div>
-                        <h3 class="seoprom__title">Конкуренция на рынке</h3>
-                        <div class="seoprom__desc">
-                            Канада – это развитая страна с активной конкуренцией во многих отраслях. SEO-продвижение в Канаде требует более интенсивных усилий для преодоления конкуренции и выхода на топовые позиции в поисковых результатах.
+                        <div class="seoprom__body">
+                            <h3 class="seoprom__title">Конкуренция на рынке</h3>
+                            <div class="seoprom__desc">
+                                Канада – это развитая страна с активной конкуренцией во многих отраслях. SEO-продвижение в Канаде требует более интенсивных усилий для преодоления конкуренции и выхода на топовые позиции в поисковых результатах.
+                            </div>
                         </div>
                     </div>
 
                     <div class="seoprom__item">
                         <div class="seoprom__before"></div>
-                        <h3 class="seoprom__title">Учет особенностей культуры</h3>
-                        <div class="seoprom__desc">
-                            Канадская культура уникальна, и важно понимать ее особенности при создании контента и рекламных кампаний. Успешное SEO-продвижение в Канаде включает в себя создание контента, который соответствует ценностям и интересам канадских пользователей.
+                        <div class="seoprom__body">
+                            <h3 class="seoprom__title">Учет особенностей культуры</h3>
+                            <div class="seoprom__desc">
+                                Канадская культура уникальна, и важно понимать ее особенности при создании контента и рекламных кампаний. Успешное SEO-продвижение в Канаде включает в себя создание контента, который соответствует ценностям и интересам канадских пользователей.
+                            </div>
                         </div>
                     </div>
 
                     <div class="seoprom__item">
                         <div class="seoprom__before"></div>
-                        <h3 class="seoprom__title">Правила локального SEO</h3>
-                        <div class="seoprom__desc">
-                            Локальный SEO имеет большое значение для бизнесов, ориентированных на местный рынок. Важно оптимизировать свой сайт для локальных поисковых запросов, указать точное местоположение на карте, создать локальные бизнес-профили и следить за отзывами клиентов.
+                        <div class="seoprom__body">
+                            <h3 class="seoprom__title">Правила локального SEO</h3>
+                            <div class="seoprom__desc">
+                                Локальный SEO имеет большое значение для бизнесов, ориентированных на местный рынок. Важно оптимизировать свой сайт для локальных поисковых запросов, указать точное местоположение на карте, создать локальные бизнес-профили и следить за отзывами клиентов.
+                            </div>
                         </div>
                     </div>
 
@@ -925,7 +943,7 @@
         <div class="block">
             <div class="container">
                 <div class="block__label">Отзывы клиентов</div>
-                <h2 class="block__title">Опыт клиентов: что говорят о нас наши заказчики</h2>
+                <h2 class="block__title mw880">Опыт клиентов: что говорят о нас наши заказчики</h2>
 
                 <div class="review">
                     <div class="review__inner">
@@ -1005,9 +1023,11 @@
 
                     </div>
                     <div class="review__all">
+                        <div class="review__all_before"></div>
                         <a href="#">
                             <div class="btn btn_arrow-black">Все отзывы</div>
                         </a>
+                        <div class="review__all_after"></div>
                     </div>
                 </div>
 
@@ -1020,20 +1040,22 @@
         <div class="block">
             <div class="container">
                 <div class="block__label">Команда</div>
-                <h2 class="block__title">Команда, которая будет работать над вашим проектом</h2>
+                <h2 class="block__title mw880">Команда, которая будет работать над вашим проектом</h2>
 
                 <div class="team">
                     <div class="team__main">
                         <div class="team__main-img">
                             <img src="./assets/img/page-seo/team-main.png" alt="">
                         </div>
-                        <div class="team__main-label">
-                            <div class="team__main-icon">
-                                <img src="./assets/img/page-seo/team-main-icon.png" alt="">
+                        <div class="team__main-body">
+                            <div class="team__main-label">
+                                <div class="team__main-icon">
+                                    <img src="./assets/img/page-seo/team-main-icon.png" alt="">
+                                </div>
+                                <div class="team__main-position">Руководитель SEO департамента</div>
                             </div>
-                            <div class="team__main-position">Руководитель SEO департамента</div>
+                            <div class="team__main-name">Иван Иванов</div>
                         </div>
-                        <div class="team__main-name">Иван Иванов</div>
                     </div>
 
                     <div class="team__list">
@@ -1111,13 +1133,13 @@
         <div class="block">
             <div class="container">
                 <div class="block__label">FAQ</div>
-                <h2 class="block__title">Часто задаваемые вопросы и полезная информация для вас</h2>
+                <h2 class="block__title mw880">Часто задаваемые вопросы и полезная информация для вас</h2>
 
                 <div class="faq">
 
                     <div class="faq__item">
                         <div class="faq-question">
-                            <div class="counter"></div>
+                            <div class="counter">01</div>
                             <div class="faq-question__question">Через какое время я увижу результат?</div>
                             <div class="btn btn_plus-yellow">Подробнее</div>
                         </div>
@@ -1130,7 +1152,7 @@
 
                     <div class="faq__item">
                         <div class="faq-question">
-                            <div class="counter"></div>
+                            <div class="counter">02</div>
                             <div class="faq-question__question">У вас есть гарантия результата?</div>
                             <div class="btn btn_plus-yellow">Подробнее</div>
                         </div>
@@ -1143,7 +1165,7 @@
 
                     <div class="faq__item">
                         <div class="faq-question">
-                            <div class="counter"></div>
+                            <div class="counter">03</div>
                             <div class="faq-question__question">Что входит в стоимость услуг?</div>
                             <div class="btn btn_plus-yellow">Подробнее</div>
                         </div>
@@ -1156,7 +1178,7 @@
 
                     <div class="faq__item">
                         <div class="faq-question">
-                            <div class="counter"></div>
+                            <div class="counter">04</div>
                             <div class="faq-question__question">Какие сервисы вы используете в работе?</div>
                             <div class="btn btn_plus-yellow">Подробнее</div>
                         </div>
@@ -1188,7 +1210,7 @@
                             <div class="service__header-el">
                                 <img src="./assets/img/services/icon-1.png" alt="">
                             </div>
-                            <div class="counter"></div>
+                            <div class="counter">01</div>
                         </div>
                         <h3 class="service__title">Разработка сайтов</h3>
                         <div class="service__desc">Создаем уникальные, функциональные и пользовательски ориентированные сайты для улучшения вашего онлайн-присутствия.</div>
@@ -1210,7 +1232,7 @@
                             <div class="service__header-el">
                                 <img src="./assets/img/services/icon-2.png" alt="">
                             </div>
-                            <div class="counter"></div>
+                            <div class="counter">02</div>
                         </div>
                         <h3 class="service__title">Контекстная реклама</h3>
                         <div class="service__desc">Оптимизируем вашу рекламную кампанию для максимального ROI, привлекая целевую аудиторию и увеличивая доход.</div>
@@ -1232,7 +1254,7 @@
                             <div class="service__header-el">
                                 <img src="./assets/img/services/icon-3.png" alt="">
                             </div>
-                            <div class="counter"></div>
+                            <div class="counter">03</div>
                         </div>
                         <h3 class="service__title">Реклама Google Local Ads / Google Guaranteed</h3>
                         <div class="service__desc">Создаем уникальные, функциональные и пользовательски ориентированные сайты для улучшения вашего онлайн-присутствия.</div>
@@ -1254,7 +1276,7 @@
                             <div class="service__header-el">
                                 <img src="./assets/img/services/icon-4.png" alt="">
                             </div>
-                            <div class="counter"></div>
+                            <div class="counter">04</div>
                         </div>
                         <h3 class="service__title">Web-дизайн</h3>
                         <div class="service__desc">Оптимизируем вашу рекламную кампанию для максимального ROI, привлекая целевую аудиторию и увеличивая доход.</div>
@@ -1276,7 +1298,7 @@
                             <div class="service__header-el">
                                 <img src="./assets/img/services/icon-5.png" alt="">
                             </div>
-                            <div class="counter"></div>
+                            <div class="counter">05</div>
                         </div>
                         <h3 class="service__title">Написание SEO-текстов</h3>
                         <div class="service__desc">Создаем уникальные, функциональные и пользовательски ориентированные сайты для улучшения вашего онлайн-присутствия.</div>
@@ -1298,7 +1320,7 @@
                             <div class="service__header-el">
                                 <img src="./assets/img/services/icon-6.png" alt="">
                             </div>
-                            <div class="counter"></div>
+                            <div class="counter">06</div>
                         </div>
                         <h3 class="service__title">Ускорение работы сайта</h3>
                         <div class="service__desc">Оптимизируем вашу рекламную кампанию для максимального ROI, привлекая целевую аудиторию и увеличивая доход.</div>
@@ -1393,7 +1415,8 @@
             </div>
         </div>
     </footer>
-
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="./assets/js/main.js"></script>
 </body>
 
 </html>
