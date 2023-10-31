@@ -143,10 +143,19 @@ body {
   margin-bottom: 20px;
 }
 
-.topmenu > ul > li:hover > .arr-nav {
+@media (min-width: 1035px) {
+  .topmenu > ul > li:hover > .arr-nav {
+    transition: transform 0.2s ease-in;
+  }
+  .topmenu > ul > li:hover > .arr-nav {
+    transform: rotate(180deg);
+  }
+}
+
+.topmenu .arr-nav.active {
   transition: transform 0.2s ease-in;
 }
-.topmenu > ul > li:hover > .arr-nav {
+.topmenu .arr-nav.active {
   transform: rotate(180deg);
 }
 
@@ -158,6 +167,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   margin-left: 4px;
+  cursor: pointer;
 }
 
 .header__btn {
@@ -1134,10 +1144,16 @@ table {
   &::after {
     background-image: url(../img/main/btn_plus-yellow.svg);
     margin-left: 8px;
+    transition: transform 0.2s ease-in;
+  }
+  &.active {
+    &::after {
+      transform: rotate(45deg);
+    }
   }
 }
 .faq-answer {
-  padding: 14px;
+  padding: 35px 14px 14px;
   display: none;
 }
 .service {
@@ -1250,26 +1266,90 @@ table {
     font-size: 12px;
     line-height: 16px;
     &::after {
+      width: 22px;
+      height: 22px;
       background-image: url(../img/main/service__footer-btn-blue.svg);
       margin-left: 8px;
     }
   }
 }
 .footer {
+  margin-top: 90px;
+  padding: 53px 0 52px;
+  background-color: #f4ebff;
+  border-radius: 24px 24px 0 0;
 }
 .footer__inner {
+  display: flex;
+  justify-content: space-between;
 }
 .footer__item {
 }
+.footer__item:first-child {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  .btn {
+    font-size: 14px;
+    line-height: 18px;
+    &::after {
+      background-image: url(../img/main/btn_arrow-yellow.svg);
+      margin-left: 8px;
+    }
+  }
+}
+.footer__item:last-child {
+  .footer__block {
+    margin-bottom: 68px;
+  }
+}
 .footer__logo {
+  display: flex;
+  height: 38px;
+  width: 79px;
+  img {
+    width: 100%;
+    height: auto;
+  }
 }
 .footer__block {
 }
 .footer__label {
+  font-size: 24px;
+  line-height: 28px;
+  font-weight: 700;
+  margin-bottom: 32px;
 }
 .footer__list {
+  ul {
+    li {
+      margin-bottom: 12px;
+      font-size: 14px;
+      line-height: 18px;
+    }
+  }
 }
 .footer-social {
+  display: flex;
+  gap: 28px;
 }
 .footer-social__item {
+  a {
+    display: flex;
+  }
 }
+.header__btn-nav,
+.header__btn-close {
+  display: none;
+}
+
+// START HOVER
+@media (hover: hover) {
+  .topmenu a {
+    transition: all 0.2s ease-in;
+  }
+  .topmenu a:hover {
+    color: #837ede;
+  }
+}
+// END HOVER

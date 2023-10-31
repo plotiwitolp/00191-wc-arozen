@@ -8,12 +8,39 @@
     });
 
     $('.topmenu > ul > li').mouseenter(function () {
-      $(this).children('ul').fadeIn();
+      if (window.innerWidth >= 1036) {
+        $(this).children('ul').fadeIn();
+      }
     });
     $('.topmenu > ul > li').mouseleave(function () {
-      $(this).children('ul').fadeOut();
+      if (window.innerWidth >= 1036) {
+        $(this).children('ul').fadeOut();
+      }
+    });
+
+    // mob
+    $('.topmenu .arr-nav').on('click', function () {
+      if (window.innerWidth <= 1036) {
+        $(this).next('ul').slideToggle();
+        $(this).toggleClass('active');
+      }
+    });
+
+    $('.burger').on('click', function () {
+      $('.header__menu').addClass('active');
+    });
+
+    $('.header__btn-close').on('click', function () {
+      $('.header__menu').removeClass('active');
     });
 
     // END HEADER
+
+    // START FAQ
+    $('.faq-question .btn').on('click', function () {
+      $(this).parent('.faq-question').next('.faq-answer').slideToggle();
+      $(this).toggleClass('active');
+    });
+    // END FAQ
   });
 })(jQuery);

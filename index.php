@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SEO-продвижение сайтов</title>
     <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="stylesheet" href="./assets/css/media.css">
 </head>
 
 <body>
@@ -21,45 +22,56 @@
                 <div class="header__menu">
                     <nav class="topmenu">
                         <ul>
-                            <li><a href="#">Страны</a>
+                            <li><a href="./">Страны</a>
                                 <ul>
-                                    <li><a href="#">Страна 1</a></li>
-                                    <li><a href="#">Страна 2</a></li>
+                                    <li><a href="./">Страна 1</a></li>
+                                    <li><a href="./">Страна 2</a></li>
                                 </ul>
                             </li>
-                            <li><a href="#">SEO-продвижение сайтов</a>
+                            <li><a href="./">SEO-продвижение сайтов</a>
                                 <ul>
-                                    <li><a href="#">SEO-продвижение сайтов 1</a></li>
-                                    <li><a href="#">SEO-продвижение сайтов 2</a></li>
+                                    <li><a href="./">SEO-продвижение сайтов 1</a></li>
+                                    <li><a href="./">SEO-продвижение сайтов 2</a></li>
                                 </ul>
                             </li>
-                            <li><a href="#">Услуги Digital-маркетинга</a>
+                            <li><a href="./">Услуги Digital-маркетинга</a>
                                 <ul>
-                                    <li><a href="#">Услуги Digital-маркетинга 1</a></li>
-                                    <li><a href="#">Услуги Digital-маркетинга 2</a></li>
+                                    <li><a href="./">Услуги Digital-маркетинга 1</a></li>
+                                    <li><a href="./">Услуги Digital-маркетинга 2</a></li>
                                 </ul>
                             </li>
-                            <li><a href="#">Индустрии</a>
+                            <li><a href="./">Индустрии</a>
                                 <ul>
-                                    <li><a href="#">Индустрии 1</a></li>
-                                    <li><a href="#">Индустрии 2</a></li>
+                                    <li><a href="./">Индустрии 1</a></li>
+                                    <li><a href="./">Индустрии 2</a></li>
                                 </ul>
                             </li>
-                            <li><a href="#">Кейсы</a></li>
-                            <li><a href="#">О компании</a>
+                            <li><a href="./">Кейсы</a></li>
+                            <li><a href="./">О компании</a>
                                 <ul>
-                                    <li><a href="#">О компании 1</a></li>
-                                    <li><a href="#">О компании 2</a></li>
+                                    <li><a href="./">О компании 1</a></li>
+                                    <li><a href="./">О компании 2</a></li>
                                 </ul>
                             </li>
-                            <li><a href="#">Блог</a></li>
+                            <li><a href="./">Блог</a></li>
                         </ul>
                     </nav>
+                    <div class="header__btn-close">
+                        <span></span>
+                        <span></span>
+                    </div>
                 </div>
                 <div class="header__btn">
                     <a href="#">
                         <div class="btn btn_arrow-blue">Бесплатный аудит</div>
                     </a>
+                </div>
+                <div class="header__btn-nav">
+                    <div class="burger">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
                 </div>
             </div>
     </header>
@@ -515,131 +527,131 @@
                 <h2 class="block__title">Сравнительная характеристика вложений в контекстную рекламу и seo-продвижение</h2>
 
                 <div class="table-char">
-
-                    <table id="tablepress-1" class="tablepress tablepress-id-1">
-                        <thead>
-                            <tr class="row-1 odd">
-                                <th class="column-1"></th>
-                                <th colspan="6" class="column-2">Контекстная реклама Google</th>
-                                <th colspan="5" class="column-8">SEO-продвижение сайта</th>
-                            </tr>
-                        </thead>
-                        <tbody class="row-hover">
-                            <tr class="row-2 even">
-                                <td class="column-1"><strong>Период</strong></td>
-                                <td class="column-2"><strong>Вложения, $</strong></td>
-                                <td class="column-3"><strong>Кол-во трафика</strong></td>
-                                <td class="column-4"><strong>Кол-во заявок</strong></td>
-                                <td class="column-5"><strong>Конверсии, %</strong></td>
-                                <td class="column-6"><strong>Стоимость клика, $</strong></td>
-                                <td class="column-7"><strong>Стоимость привлечения 1 клиента</strong></td>
-                                <td class="column-8"><strong>Вложения, $</strong></td>
-                                <td class="column-9"><strong>Кол-во трафика</strong></td>
-                                <td class="column-10"><strong>Кол-во заявок</strong></td>
-                                <td class="column-11"><strong>Конверсии, %</strong></td>
-                                <td class="column-12"><strong>Стоимость привлечения 1 клиента</strong></td>
-                            </tr>
-                            <tr class="row-3 odd">
-                                <td class="column-1">1 месяц</td>
-                                <td class="column-2">1000</td>
-                                <td class="column-3">50</td>
-                                <td class="column-4">10</td>
-                                <td class="column-5">10</td>
-                                <td class="column-6">10</td>
-                                <td class="column-7">1000</td>
-                                <td class="column-8">50</td>
-                                <td class="column-9">10</td>
-                                <td class="column-10">10</td>
-                                <td class="column-11">10</td>
-                                <td class="column-12">10</td>
-                            </tr>
-                            <tr class="row-4 even">
-                                <td class="column-1">2 месяц</td>
-                                <td class="column-2">1000</td>
-                                <td class="column-3">50</td>
-                                <td class="column-4">10</td>
-                                <td class="column-5">10</td>
-                                <td class="column-6">10</td>
-                                <td class="column-7">900</td>
-                                <td class="column-8">50</td>
-                                <td class="column-9">10</td>
-                                <td class="column-10">10</td>
-                                <td class="column-11">10</td>
-                                <td class="column-12">10</td>
-                            </tr>
-                            <tr class="row-5 odd">
-                                <td class="column-1">В сумме за <br> 1-ый год</td>
-                                <td class="column-2"><strong>6000</strong></td>
-                                <td class="column-3"><em>600</em></td>
-                                <td class="column-4"><em>120</em></td>
-                                <td class="column-5"><em>12000</em></td>
-                                <td class="column-6"><strong>12000</strong></td>
-                                <td class="column-7"><em>12000</em></td>
-                                <td class="column-8"><em>600</em></td>
-                                <td class="column-9"><em>120</em></td>
-                                <td class="column-10"><strong>12000</strong></td>
-                                <td class="column-11"><em>12000</em></td>
-                                <td class="column-12"><em>12000</em></td>
-                            </tr>
-                            <tr class="row-6 even">
-                                <td class="column-1">1 месяц</td>
-                                <td class="column-2">1000</td>
-                                <td class="column-3">50</td>
-                                <td class="column-4">10</td>
-                                <td class="column-5">10</td>
-                                <td class="column-6">10</td>
-                                <td class="column-7">10</td>
-                                <td class="column-8">50</td>
-                                <td class="column-9">10</td>
-                                <td class="column-10">10</td>
-                                <td class="column-11">10</td>
-                                <td class="column-12">10</td>
-                            </tr>
-                            <tr class="row-7 odd">
-                                <td class="column-1">2 месяц</td>
-                                <td class="column-2">1000</td>
-                                <td class="column-3">50</td>
-                                <td class="column-4">10</td>
-                                <td class="column-5">10</td>
-                                <td class="column-6">10</td>
-                                <td class="column-7">10</td>
-                                <td class="column-8">50</td>
-                                <td class="column-9">10</td>
-                                <td class="column-10">10</td>
-                                <td class="column-11">10</td>
-                                <td class="column-12">10</td>
-                            </tr>
-                            <tr class="row-8 even">
-                                <td class="column-1">В сумме за <br> 2-ой год</td>
-                                <td class="column-2"><strong>6000</strong></td>
-                                <td class="column-3"><em>600</em></td>
-                                <td class="column-4"><em>120</em></td>
-                                <td class="column-5"><em>12000</em></td>
-                                <td class="column-6"><em>12000</em></td>
-                                <td class="column-7"><em>12000</em></td>
-                                <td class="column-8"><strong>600</strong></td>
-                                <td class="column-9"><em>120</em></td>
-                                <td class="column-10"><em>12000</em></td>
-                                <td class="column-11"><em>12000</em></td>
-                                <td class="column-12"><em>12000</em></td>
-                            </tr>
-                            <tr class="row-9 even">
-                                <td class="column-1">В сумме за <br> два года</td>
-                                <td class="column-2"><strong>6000</strong></td>
-                                <td class="column-3"><em>600</em></td>
-                                <td class="column-4"><em>120</em></td>
-                                <td class="column-5"><em>12000</em></td>
-                                <td class="column-6"><em>12000</em></td>
-                                <td class="column-7"><em>12000</em></td>
-                                <td class="column-8"><strong>600</strong></td>
-                                <td class="column-9"><em>120</em></td>
-                                <td class="column-10"><em>12000</em></td>
-                                <td class="column-11"><em>12000</em></td>
-                                <td class="column-12"><em>12000</em></td>
-                            </tr>
-                        </tbody>
-                    </table>
-
+                    <div class="table-char__inner">
+                        <table id="tablepress-1" class="tablepress tablepress-id-1">
+                            <thead>
+                                <tr class="row-1 odd">
+                                    <th class="column-1"></th>
+                                    <th colspan="6" class="column-2">Контекстная реклама Google</th>
+                                    <th colspan="5" class="column-8">SEO-продвижение сайта</th>
+                                </tr>
+                            </thead>
+                            <tbody class="row-hover">
+                                <tr class="row-2 even">
+                                    <td class="column-1"><strong>Период</strong></td>
+                                    <td class="column-2"><strong>Вложения, $</strong></td>
+                                    <td class="column-3"><strong>Кол-во трафика</strong></td>
+                                    <td class="column-4"><strong>Кол-во заявок</strong></td>
+                                    <td class="column-5"><strong>Конверсии, %</strong></td>
+                                    <td class="column-6"><strong>Стоимость клика, $</strong></td>
+                                    <td class="column-7"><strong>Стоимость привлечения 1 клиента</strong></td>
+                                    <td class="column-8"><strong>Вложения, $</strong></td>
+                                    <td class="column-9"><strong>Кол-во трафика</strong></td>
+                                    <td class="column-10"><strong>Кол-во заявок</strong></td>
+                                    <td class="column-11"><strong>Конверсии, %</strong></td>
+                                    <td class="column-12"><strong>Стоимость привлечения 1 клиента</strong></td>
+                                </tr>
+                                <tr class="row-3 odd">
+                                    <td class="column-1">1 месяц</td>
+                                    <td class="column-2">1000</td>
+                                    <td class="column-3">50</td>
+                                    <td class="column-4">10</td>
+                                    <td class="column-5">10</td>
+                                    <td class="column-6">10</td>
+                                    <td class="column-7">1000</td>
+                                    <td class="column-8">50</td>
+                                    <td class="column-9">10</td>
+                                    <td class="column-10">10</td>
+                                    <td class="column-11">10</td>
+                                    <td class="column-12">10</td>
+                                </tr>
+                                <tr class="row-4 even">
+                                    <td class="column-1">2 месяц</td>
+                                    <td class="column-2">1000</td>
+                                    <td class="column-3">50</td>
+                                    <td class="column-4">10</td>
+                                    <td class="column-5">10</td>
+                                    <td class="column-6">10</td>
+                                    <td class="column-7">900</td>
+                                    <td class="column-8">50</td>
+                                    <td class="column-9">10</td>
+                                    <td class="column-10">10</td>
+                                    <td class="column-11">10</td>
+                                    <td class="column-12">10</td>
+                                </tr>
+                                <tr class="row-5 odd">
+                                    <td class="column-1">В сумме за <br> 1-ый год</td>
+                                    <td class="column-2"><strong>6000</strong></td>
+                                    <td class="column-3"><em>600</em></td>
+                                    <td class="column-4"><em>120</em></td>
+                                    <td class="column-5"><em>12000</em></td>
+                                    <td class="column-6"><strong>12000</strong></td>
+                                    <td class="column-7"><em>12000</em></td>
+                                    <td class="column-8"><em>600</em></td>
+                                    <td class="column-9"><em>120</em></td>
+                                    <td class="column-10"><strong>12000</strong></td>
+                                    <td class="column-11"><em>12000</em></td>
+                                    <td class="column-12"><em>12000</em></td>
+                                </tr>
+                                <tr class="row-6 even">
+                                    <td class="column-1">1 месяц</td>
+                                    <td class="column-2">1000</td>
+                                    <td class="column-3">50</td>
+                                    <td class="column-4">10</td>
+                                    <td class="column-5">10</td>
+                                    <td class="column-6">10</td>
+                                    <td class="column-7">10</td>
+                                    <td class="column-8">50</td>
+                                    <td class="column-9">10</td>
+                                    <td class="column-10">10</td>
+                                    <td class="column-11">10</td>
+                                    <td class="column-12">10</td>
+                                </tr>
+                                <tr class="row-7 odd">
+                                    <td class="column-1">2 месяц</td>
+                                    <td class="column-2">1000</td>
+                                    <td class="column-3">50</td>
+                                    <td class="column-4">10</td>
+                                    <td class="column-5">10</td>
+                                    <td class="column-6">10</td>
+                                    <td class="column-7">10</td>
+                                    <td class="column-8">50</td>
+                                    <td class="column-9">10</td>
+                                    <td class="column-10">10</td>
+                                    <td class="column-11">10</td>
+                                    <td class="column-12">10</td>
+                                </tr>
+                                <tr class="row-8 even">
+                                    <td class="column-1">В сумме за <br> 2-ой год</td>
+                                    <td class="column-2"><strong>6000</strong></td>
+                                    <td class="column-3"><em>600</em></td>
+                                    <td class="column-4"><em>120</em></td>
+                                    <td class="column-5"><em>12000</em></td>
+                                    <td class="column-6"><em>12000</em></td>
+                                    <td class="column-7"><em>12000</em></td>
+                                    <td class="column-8"><strong>600</strong></td>
+                                    <td class="column-9"><em>120</em></td>
+                                    <td class="column-10"><em>12000</em></td>
+                                    <td class="column-11"><em>12000</em></td>
+                                    <td class="column-12"><em>12000</em></td>
+                                </tr>
+                                <tr class="row-9 even">
+                                    <td class="column-1">В сумме за <br> два года</td>
+                                    <td class="column-2"><strong>6000</strong></td>
+                                    <td class="column-3"><em>600</em></td>
+                                    <td class="column-4"><em>120</em></td>
+                                    <td class="column-5"><em>12000</em></td>
+                                    <td class="column-6"><em>12000</em></td>
+                                    <td class="column-7"><em>12000</em></td>
+                                    <td class="column-8"><strong>600</strong></td>
+                                    <td class="column-9"><em>120</em></td>
+                                    <td class="column-10"><em>12000</em></td>
+                                    <td class="column-11"><em>12000</em></td>
+                                    <td class="column-12"><em>12000</em></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
                     <div class="table-char__info">
                         <div class="table-char__info-icon"></div>
                         <div class="table-char__info-text">
@@ -1223,7 +1235,9 @@
 
                         </div>
                         <div class="service__footer">
-                            <div class="btn">Подробнее</div>
+                            <a href="#">
+                                <div class="btn">Подробнее</div>
+                            </a>
                         </div>
                     </div>
 
@@ -1245,7 +1259,9 @@
 
                         </div>
                         <div class="service__footer">
-                            <div class="btn">Подробнее</div>
+                            <a href="#">
+                                <div class="btn">Подробнее</div>
+                            </a>
                         </div>
                     </div>
 
@@ -1267,7 +1283,9 @@
 
                         </div>
                         <div class="service__footer">
-                            <div class="btn">Подробнее</div>
+                            <a href="#">
+                                <div class="btn">Подробнее</div>
+                            </a>
                         </div>
                     </div>
 
@@ -1289,7 +1307,9 @@
 
                         </div>
                         <div class="service__footer">
-                            <div class="btn">Подробнее</div>
+                            <a href="#">
+                                <div class="btn">Подробнее</div>
+                            </a>
                         </div>
                     </div>
 
@@ -1311,7 +1331,9 @@
 
                         </div>
                         <div class="service__footer">
-                            <div class="btn">Подробнее</div>
+                            <a href="#">
+                                <div class="btn">Подробнее</div>
+                            </a>
                         </div>
                     </div>
 
@@ -1333,7 +1355,9 @@
 
                         </div>
                         <div class="service__footer">
-                            <div class="btn">Подробнее</div>
+                            <a href="#">
+                                <div class="btn">Подробнее</div>
+                            </a>
                         </div>
                     </div>
 
@@ -1351,7 +1375,9 @@
 
                 <div class="footer__item">
                     <div class="footer__logo"><img src="./assets/img/main/logo-79-38.png" alt=""></div>
-                    <div class="btn btn_arrow-yellow">Бесплатный аудит</div>
+                    <a href="#">
+                        <div class="btn btn_arrow-yellow">Бесплатный аудит</div>
+                    </a>
                 </div>
 
                 <div class="footer__item">
@@ -1398,16 +1424,24 @@
                     </div>
                     <div class="footer-social">
                         <div class="footer-social__item">
-                            <img src="./assets/img/social/Facebook.png" alt="Facebook">
+                            <a href="#">
+                                <img src="./assets/img/social/Facebook.png" alt="Facebook">
+                            </a>
                         </div>
                         <div class="footer-social__item">
-                            <img src="./assets/img/social/insta.png" alt="insta">
+                            <a href="#">
+                                <img src="./assets/img/social/insta.png" alt="insta">
+                            </a>
                         </div>
                         <div class="footer-social__item">
-                            <img src="./assets/img/social/linkedin.png" alt="linkedin">
+                            <a href="#">
+                                <img src="./assets/img/social/linkedin.png" alt="linkedin">
+                            </a>
                         </div>
                         <div class="footer-social__item">
-                            <img src="./assets/img/social/tg.png" alt="tg">
+                            <a href="#">
+                                <img src="./assets/img/social/tg.png" alt="tg">
+                            </a>
                         </div>
                     </div>
                 </div>
